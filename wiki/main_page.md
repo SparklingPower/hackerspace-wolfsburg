@@ -22,9 +22,11 @@ Wir treffen uns aktuell jeden ersten und dritten Donnerstag im Irish Pub Wolfsbu
 
 ## Kommunikation
 
-### IRC: 
+### IRC:
+
 [WebChat](https://kiwiirc.com/nextclient/irc.freenode.net/#hackspacewolfsburg)
-    *Nutzername frei wählbar     
+Nutzername frei wählbar 
+
  Server: irc.freenode.net
  Channel: #hackspacewolfsburg
 
