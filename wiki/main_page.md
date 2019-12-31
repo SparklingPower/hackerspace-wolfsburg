@@ -17,7 +17,7 @@ Wenn du Interessiert bist und mindestens 18 Jahre alt bist schau bei unseren Tre
 
 ## Treffen
 
-Wir treffen uns aktuell jeden ersten und dritten Donnerstag im [Irish Pub Wolfsburg](https://duckduckgo.com/?q=Irish+Pub+Wolfsburg&t=h_&ia=web&iaxm=places) (Goethestraße 61) neben der Schiller Galerie zwischen 18 und 19 Uhr. Beginnend am 02.01.2020.
+Wir treffen uns aktuell jeden ersten und dritten Donnerstag im [Irish Pub Wolfsburg](https://duckduckgo.com/?q=Irish+Pub+Wolfsburg&t=h_&ia=web&iaxm=places) (Goethestraße 61 bei der Schiller Galerie) zwischen 18 und 19 Uhr. Beginnend am 02.01.2020.
 
 ## Kommunikation
 
