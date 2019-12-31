@@ -5,7 +5,9 @@ published: true
 # Vereinsgründung Hackerspace
 
 Du interessierst für Technik, Kunst, oder Naturwissenschaften?
+
 Du willst dich mit anderen in diesen Bereichen austauschen? 
+
 Du willst einen Verein mitbegründen?
 
 Dann bist du bei uns genau richtig.
