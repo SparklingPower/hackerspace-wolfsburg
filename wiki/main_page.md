@@ -23,9 +23,11 @@ Deswegen wenn du Interessiert bist und mindestens 18 Jahre alt bist schau bei un
 Wir treffen uns aktuell jeden 1. (ersten) und jeden 3. (dritten) Donnerstag im Monat im Irish Pub Wolfsburg (Goethestraße 61) neben der Schiller Galerie zwischen 18 und 19 Uhr.
 
 IRC: [WebChat](https://kiwiirc.com/nextclient/irc.freenode.net/#hackspacewolfsburg) 
-     * Nutzername frei wählbar
+     *Nutzername frei wählbar
      
-     Server: freenode
+     Server: irc.freenode.net
      Channel: #hackspacewolfsburg
 
-Matrix: 
+Matrix: empfohlener Client [Riot.im](about.riot.im)
+        
+	Server: #hackspacewolfsburg:matrix.org
