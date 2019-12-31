@@ -18,13 +18,13 @@ Wenn du Interessiert bist und mindestens 18 Jahre alt bist schau bei unseren tre
 
 ## Treffen
 
-Wir treffen uns aktuell jeden ersten und dritten Donnerstag im Irish Pub Wolfsburg (Goethestraße 61) neben der Schiller Galerie zwischen 18 und 19 Uhr.
+Wir treffen uns aktuell jeden ersten und dritten Donnerstag im Irish Pub Wolfsburg (Goethestraße 61) neben der Schiller Galerie zwischen 18 und 19 Uhr. Beginnend am 02.01.2020.
 
 ## Kommunikation
 
 ### IRC
 [WebChat](https://kiwiirc.com/nextclient/irc.freenode.net/#hackspacewolfsburg)
-Nutzername frei wählbar 
+Nur Nickname aussuchen und dann auf Start klicken
 
 	Server: irc.freenode.net
 	Channel: #hackspacewolfsburg
