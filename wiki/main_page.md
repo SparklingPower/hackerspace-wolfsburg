@@ -28,6 +28,6 @@ IRC: [WebChat](https://kiwiirc.com/nextclient/irc.freenode.net/#hackspacewolfsbu
      Server: irc.freenode.net
      Channel: #hackspacewolfsburg
 
-Matrix: empfohlener Client [Riot.im](about.riot.im)
+Matrix: empfohlener Client [Riot.im](https://about.riot.im)
         
 	Server: #hackspacewolfsburg:matrix.org
