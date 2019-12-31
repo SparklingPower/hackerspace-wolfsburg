@@ -13,7 +13,7 @@ Dann bist du bei uns genau richtig.
 
 Denn wir haben uns das Ziel gesetzt in Wolfsburg einen Hackerspace zu gründen.
 
-Ein [https://de.wikipedia.org/wiki/Hackerspace](Hackerspace) (von Hacker und Space, engl. für Raum) oder Hackspace ist ein physischer, häufig offener Raum, in dem sich Hacker sowie an Wissenschaft, Technologie oder digitaler Kunst (und vielen anderen Bereichen) Interessierte treffen und austauschen können. Sie werden meist von Vereinen getragen, in denen sich die Interessenten organisieren.
+Ein [Hackerspace](https://de.wikipedia.org/wiki/Hackerspace) (von Hacker und Space, engl. für Raum) oder Hackspace ist ein physischer, häufig offener Raum, in dem sich Hacker sowie an Wissenschaft, Technologie oder digitaler Kunst (und vielen anderen Bereichen) Interessierte treffen und austauschen können. Sie werden meist von Vereinen getragen, in denen sich die Interessenten organisieren.
 
 
 
