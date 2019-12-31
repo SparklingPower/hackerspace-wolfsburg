@@ -1,9 +1,9 @@
 # (string) Title of your wiki
-title: 
+title: Hackerspace Wolfsburg
 # (string) Description of your wiki
-description: 
+description: A wiki for the (up-coming) Hackerspace in Wolfsburg
 # (boolean) Enable/disable wiki page list in sidebar
-show_wiki_pages: true
+show_wiki_pages: false
 # (integer) Maximum number of wiki page to shown in sidebar
 show_wiki_pages_limit: 10
 # (boolean) Enable/disable blog feature
