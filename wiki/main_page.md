@@ -2,11 +2,21 @@
 redirect_from: "/"
 ---
 
+Vereinsgründung Hackerspace
+   
 
-1) rename it in main_page.md
+Du interessierst für Technik, Kunst, oder Naturwissenschaften?
+Du willst dich mit anderen in diesen Bereichen austauschen? 
+Du willst einen Verein mitbegründen?
 
-2) Edit this page with your content
+Dann bist du bei uns genau richtig.
+
+Denn wir haben uns das Ziel gesetzt in Wolfsburg einen Hackerspace zu gründen.
+
+Ein Hackerspace (von Hacker und Space, engl. für Raum) oder Hackspace ist ein physischer, häufig offener Raum, in dem sich Hacker sowie an Wissenschaft, Technologie oder digitaler Kunst (und vielen anderen Bereichen) Interessierte treffen und austauschen können. Sie werden meist von Vereinen getragen, in denen sich die Interessenten organisieren.
+
+Quelle: https://de.wikipedia.org/wiki/Hackerspace
 
 
-NOTE: 
-- do not delete "redirect_from" rule from the front matter of this file
+Und dafür brauchen wir ein paar Mitstreiter.
+Deswegen wenn du Interessiert bist und mindestens 18 Jahre alt bist schau bei unseren treffen vorbei.
