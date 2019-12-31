@@ -25,9 +25,11 @@ Wir treffen uns aktuell jeden ersten und dritten Donnerstag im Irish Pub Wolfsbu
 ### IRC
 [WebChat](https://kiwiirc.com/nextclient/irc.freenode.net/#hackspacewolfsburg)
 Nutzername frei wählbar 
+
 	Server: irc.freenode.net
 	Channel: #hackspacewolfsburg
 
 ### Matrix
-empfohlener Client [Riot.im](https://about.riot.im)        
+empfohlener Client [Riot.im](https://about.riot.im)
+
 	Server: #hackspacewolfsburg:matrix.org
