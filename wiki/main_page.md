@@ -4,6 +4,8 @@ published: true
 ---
 # Vereinsgründung Hackerspace
 
+## **Aufgrund der Aktuellen Lage werden bis auf weiteres keine Treffen mehr stattfinden**
+
 Du interessierst für Technik, Kunst, oder Naturwissenschaften?
 
 Du willst dich mit anderen in diesen Bereichen austauschen? 
