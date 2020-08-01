@@ -38,3 +38,7 @@ Nicknamen aussuchen und dann auf Start klicken
 empfohlener Client [Riot.im](https://about.riot.im)
 
 	Server: #hackspacewolfsburg:matrix.org
+
+## Downloads
+
+Flyer: [Vereinsgründung Hackerspace.pdf](https://github.com/SparklingPower/hackerspace-wolfsburg/raw/master/Vereinsgr%C3%BCndung%20Hackerspace.pdf)
