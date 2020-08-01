@@ -41,4 +41,4 @@ empfohlener Client [Riot.im](https://about.riot.im)
 
 ## Downloads
 
-Flyer: [Vereinsgründung Hackerspace.pdf](https://github.com/SparklingPower/hackerspace-wolfsburg/raw/master/Vereinsgr%C3%BCndung%20Hackerspace.pdf)
+Flyer [Vereinsgründung Hackerspace.pdf](https://github.com/SparklingPower/hackerspace-wolfsburg/raw/master/Vereinsgr%C3%BCndung%20Hackerspace.pdf)
